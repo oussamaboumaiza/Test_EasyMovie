@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EasyMovie</string>
+
+    <string name="se_connecter">Se connecter</string>
+    <string name="Email">Email   <font color='#EE0000'>*</font></string>
+    <string name="motDePasse">Mot de passe   <font color='#EE0000'>*</font></string>
+    <string name="motDePassOublié">Mot de passe oublié ?</string>
+    <string name="btnConnexion">Connexion</string>
+    <string name="incritptionQuestion">Tu n\'es pas inscrit?</string>
+    <string name="inscriptionLink">Je m\'inscris</string>
+    <string name="errorFileds">Vérifier vos champ SVP</string>
+</resources>
